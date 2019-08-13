@@ -28,7 +28,7 @@ cd "Web"
 python server.py
 ```
 
-## 패치
+## 패치노트
 ```
 - 로그인/회원가입
 - Refine DataSet
