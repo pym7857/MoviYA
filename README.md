@@ -3,18 +3,18 @@
 - 이 프로젝트는 **앱 해상도에 최적화** 되어있습니다.
 
 ## 시스템구성도
-![4](./indexImage/4.PNG)
+![4](./SampleImage/4.PNG)
 
 ## Web Site
-![1](./indexImage/1.PNG)
-![2](./indexImage/2.PNG)
+![1](./SampleImage/1.PNG)
+![2](./SampleImage/2.PNG)
 <br>
 참조 : https://mdbootstrap.com/freebies/
 <br>
 참조 : https://mdbootstrap.com/plugins/jquery/video/
 
 ## 모바일ver.
-![3](./indexImage/3.PNG)
+![3](./SampleImage/3.PNG)
 
 ## 서버 실행
 ```
