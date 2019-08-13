@@ -4,7 +4,7 @@
 이 프로젝트는 앱 해상도에 최적화 되어있습니다.
 
 ## 시스템구성도
-![structure](./image/structure.png)
+![4](./indexImage/4.PNG)
 
 ## Web Site
 ![1](./indexImage/1.PNG)
