@@ -28,6 +28,13 @@ cd "Web"
 python server.py
 ```
 
+## PatchNote
+```
+- 로그인/회원가입
+- Refine DataSet
+- Pearson Correlation (피어슨 상관관계) 적용
+```
+
 ## 파이썬 데이터 학습 모델 생성 ( 옵션 )
 ```
 # 프로젝트 폴더에서 파이썬 폴더로 이동합니다.
