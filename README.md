@@ -56,3 +56,7 @@ python "user_input.py"
 
 # 이후에 생성된 모델 파일을 웹 서버의 model 폴더에 붙여넣기 하면 적용됩니다.
 ```
+
+## 참고
+- 회원가입 snippet : https://bootsnipp.com/snippets/orMGB
+- 로그인 snippet : https://bootsnipp.com/snippets/vl4R7
