@@ -9,9 +9,10 @@
 ## Web Site
 ![1](./indexImage/1.PNG)
 ![2](./indexImage/2.PNG)
-https://mdbootstrap.com/freebies/
 <br>
-https://mdbootstrap.com/plugins/jquery/video/
+참조 : https://mdbootstrap.com/freebies/
+<br>
+참조 : https://mdbootstrap.com/plugins/jquery/video/
 
 ## 서버 실행
 ```
