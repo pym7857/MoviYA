@@ -9,11 +9,13 @@
 ## Web Site
 ![1](./indexImage/1.PNG)
 ![2](./indexImage/2.PNG)
-![3](./indexImage/3.PNG)
 <br>
 참조 : https://mdbootstrap.com/freebies/
 <br>
 참조 : https://mdbootstrap.com/plugins/jquery/video/
+
+## 모바일ver.
+![3](./indexImage/3.PNG)
 
 ## 서버 실행
 ```
