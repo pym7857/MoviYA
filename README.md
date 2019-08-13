@@ -9,11 +9,13 @@
 ## Web Site
 ![1](./indexImage/1.PNG)
 ![2](./indexImage/2.PNG)
-![3](./indexImage/3.PNG)
 <br>
 참조 : https://mdbootstrap.com/freebies/
 <br>
 참조 : https://mdbootstrap.com/plugins/jquery/video/
+
+## 모바일ver.
+![3](./indexImage/3.PNG)
 
 ## 서버 실행
 ```
@@ -48,7 +50,7 @@ python offline_save.py
 # (옵션) 학습된 데이터를 확인합니다.
 python "user_input.py"
 >> 입력1: -2.7
->> 입력2: -6.6
+>> 입력2: -6.5
 >> 입력3: 2.0
 >> 입력4:  0.1
 [2000.2086]
